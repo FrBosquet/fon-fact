@@ -17,5 +17,5 @@ export const funFactGenerator = () => {
   const where = pick(places);
   const consecuence = pick(consecuences);
 
-  return `${when} ${action} ${who} ${where} ${consecuence}`;
+  return `${when} ${action} ${who} ${where}${consecuence}`;
 };

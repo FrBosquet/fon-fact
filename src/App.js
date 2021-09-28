@@ -15,7 +15,7 @@ export default function App() {
       className="Ap
     p"
     >
-      <img src="logo.png" />
+      <img alt="logotipo" src="logo.png" />
       <h3>Dale al boton pa ver barbaridades namas</h3>
       <button onClick={generate}>EL BOTON</button>
       {funFact && <p className="fun-fact">{funFact}</p>}
