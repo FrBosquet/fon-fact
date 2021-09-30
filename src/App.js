@@ -11,10 +11,7 @@ export default function App() {
   };
 
   return (
-    <div
-      className="Ap
-    p"
-    >
+    <div className="App">
       <img alt="logotipo" src="logo.png" />
       <h3>Dale al boton pa ver barbaridades namas</h3>
       <button onClick={generate}>EL BOTON</button>
