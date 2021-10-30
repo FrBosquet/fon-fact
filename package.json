@@ -1,7 +1,7 @@
 {
   "homepage": "https://FrBosquet.github.io/fon-fact",
   "name": "fon-fact",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
